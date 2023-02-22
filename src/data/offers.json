@@ -1,0 +1,784 @@
+{
+  "data": [
+    {
+      "origin": "FRA",
+      "destination": "FCO",
+      "departureDate": "2023-03-28",
+      "returnDate": "2023-06-13",
+      "seatAvailability": "7",
+      "offerType": "Best Price",
+      "uuid": "1",
+      "price": {
+        "amount": "228.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "AAQ",
+      "destination": "ABJ",
+      "departureDate": "2023-04-12",
+      "returnDate": "2023-09-13",
+      "seatAvailability": "9",
+      "offerType": "Best Price",
+      "uuid": "2",
+      "price": {
+        "amount": "228.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FRA",
+      "destination": "ABZ",
+      "departureDate": "2023-05-25",
+      "returnDate": "2023-07-13",
+      "seatAvailability": "3",
+      "offerType": "Best Price",
+      "uuid": "3",
+      "price": {
+        "amount": "89.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "ACC",
+      "destination": "ADB",
+      "departureDate": "2023-06-30",
+      "returnDate": "2023-09-13",
+      "seatAvailability": "32",
+      "offerType": "Best Price",
+      "uuid": "4",
+      "price": {
+        "amount": "389.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "ADB",
+      "destination": "ACE",
+      "departureDate": "2023-07-01",
+      "returnDate": "2023-08-13",
+      "seatAvailability": "13",
+      "offerType": "Best Price",
+      "uuid": "5",
+      "price": {
+        "amount": "449.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FRA",
+      "destination": "ADD",
+      "departureDate": "2023-08-29",
+      "returnDate": "2023-09-13",
+      "seatAvailability": "34",
+      "offerType": "Best Price",
+      "uuid": "6",
+      "price": {
+        "amount": "309.21",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "ADL",
+      "destination": "ABZ",
+      "departureDate": "2023-09-31",
+      "returnDate": "2023-10-13",
+      "seatAvailability": "11",
+      "offerType": "Best Price",
+      "uuid": "7",
+      "price": {
+        "amount": "199.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "AER",
+      "destination": "BET",
+      "departureDate": "2023-03-03",
+      "returnDate": "2023-04-13",
+      "seatAvailability": "2",
+      "offerType": "Best Price",
+      "uuid": "8",
+      "price": {
+        "amount": "519.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "CKG",
+      "destination": "BEY",
+      "departureDate": "2023-04-27",
+      "returnDate": "2023-06-13",
+      "seatAvailability": "15",
+      "offerType": "Best Price",
+      "uuid": "9",
+      "price": {
+        "amount": "629.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FRA",
+      "destination": "ABZ",
+      "departureDate": "2023-05-04",
+      "returnDate": "2023-07-13",
+      "seatAvailability": "26",
+      "offerType": "Best Price",
+      "uuid": "10",
+      "price": {
+        "amount": "192.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "BKK",
+      "destination": "BEY",
+      "departureDate": "2023-06-03",
+      "returnDate": "2023-08-13",
+      "seatAvailability": "20",
+      "offerType": "Best Price",
+      "uuid": "11",
+      "price": {
+        "amount": "93.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "CKG",
+      "destination": "EXT",
+      "departureDate": "2023-07-06",
+      "returnDate": "2023-10-13",
+      "seatAvailability": "13",
+      "offerType": "Best Price",
+      "uuid": "12",
+      "price": {
+        "amount": "159.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FCO",
+      "destination": "LIN",
+      "departureDate": "2023-09-26",
+      "returnDate": "2023-12-30",
+      "seatAvailability": "32",
+      "offerType": "Best Price",
+      "uuid": "13",
+      "price": {
+        "amount": "109.23",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FRA",
+      "destination": "HKG",
+      "departureDate": "2023-08-08",
+      "returnDate": "2023-11-13",
+      "seatAvailability": "3",
+      "offerType": "Best Price",
+      "uuid": "14",
+      "price": {
+        "amount": "199.09",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "HRG",
+      "destination": "IAD",
+      "departureDate": "2023-03-25",
+      "returnDate": "2023-05-13",
+      "seatAvailability": "14",
+      "offerType": "Best Price",
+      "uuid": "15",
+      "price": {
+        "amount": "160.77",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "ICN",
+      "destination": "LIN",
+      "departureDate": "2023-04-09",
+      "returnDate": "2023-05-13",
+      "seatAvailability": "19",
+      "offerType": "Best Price",
+      "uuid": "16",
+      "price": {
+        "amount": "94.54",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "MUC",
+      "destination": "IKT",
+      "departureDate": "2023-05-24",
+      "returnDate": "2023-07-13",
+      "seatAvailability": "27",
+      "offerType": "Best Price",
+      "uuid": "17",
+      "price": {
+        "amount": "251.91",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "NAS",
+      "destination": "NAP",
+      "departureDate": "2023-07-10",
+      "returnDate": "2023-08-13",
+      "seatAvailability": "21",
+      "offerType": "Best Price",
+      "uuid": "18",
+      "price": {
+        "amount": "307.32",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "PTY",
+      "destination": "PEN",
+      "departureDate": "2023-06-24",
+      "returnDate": "2023-07-13",
+      "seatAvailability": "10",
+      "offerType": "Best Price",
+      "uuid": "19",
+      "price": {
+        "amount": "205.22",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "RAK",
+      "destination": "BLL",
+      "departureDate": "2023-09-11",
+      "returnDate": "2023-11-13",
+      "seatAvailability": "26",
+      "offerType": "Best Price",
+      "uuid": "20",
+      "price": {
+        "amount": "81.98",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "PDX",
+      "destination": "CDG",
+      "departureDate": "2023-08-23",
+      "returnDate": "2023-09-13",
+      "seatAvailability": "12",
+      "offerType": "Best Price",
+      "uuid": "21",
+      "price": {
+        "amount": "487.11",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "CIA",
+      "destination": "ROC",
+      "departureDate": "2023-03-12",
+      "returnDate": "2023-04-13",
+      "seatAvailability": "5",
+      "offerType": "Best Price",
+      "uuid": "22",
+      "price": {
+        "amount": "224.28",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "RTM",
+      "destination": "DAY",
+      "departureDate": "2023-04-22",
+      "returnDate": "2023-05-13",
+      "seatAvailability": "16",
+      "offerType": "Best Price",
+      "uuid": "23",
+      "price": {
+        "amount": "178.56",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "SVX",
+      "destination": "DEL",
+      "departureDate": "2023-06-14",
+      "returnDate": "2023-07-13",
+      "seatAvailability": "9",
+      "offerType": "Best Price",
+      "uuid": "24",
+      "price": {
+        "amount": "244.21",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "LIS",
+      "destination": "EZE",
+      "departureDate": "2023-05-21",
+      "returnDate": "2023-08-13",
+      "seatAvailability": "1",
+      "offerType": "Best Price",
+      "uuid": "25",
+      "price": {
+        "amount": "959.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "MIA",
+      "destination": "CDG",
+      "departureDate": "2023-07-15",
+      "returnDate": "2023-09-13",
+      "seatAvailability": "7",
+      "offerType": "Best Price",
+      "uuid": "26",
+      "price": {
+        "amount": "728.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "OPO",
+      "destination": "YYZ",
+      "departureDate": "2023-06-20",
+      "returnDate": "2023-07-13",
+      "seatAvailability": "17",
+      "offerType": "Best Price",
+      "uuid": "27",
+      "price": {
+        "amount": "1128.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "EZE",
+      "destination": "DEL",
+      "departureDate": "2023-09-21",
+      "returnDate": "2023-10-13",
+      "seatAvailability": "29",
+      "offerType": "Best Price",
+      "uuid": "28",
+      "price": {
+        "amount": "936.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "YVR",
+      "destination": "AEP",
+      "departureDate": "2023-08-16",
+      "returnDate": "2023-11-13",
+      "seatAvailability": "6",
+      "offerType": "Best Price",
+      "uuid": "29",
+      "price": {
+        "amount": "1326.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "NRT",
+      "destination": "YHZ",
+      "departureDate": "2023-03-29",
+      "returnDate": "2023-05-13",
+      "seatAvailability": "17",
+      "offerType": "Best Price",
+      "uuid": "30",
+      "price": {
+        "amount": "1626.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "GRU",
+      "destination": "FRA",
+      "departureDate": "2023-04-19",
+      "returnDate": "2023-07-13",
+      "seatAvailability": "24",
+      "offerType": "Best Price",
+      "uuid": "31",
+      "price": {
+        "amount": "1956.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "BOG",
+      "destination": "GRU",
+      "departureDate": "2023-06-17",
+      "returnDate": "2023-08-13",
+      "seatAvailability": "30",
+      "offerType": "Best Price",
+      "uuid": "32",
+      "price": {
+        "amount": "256.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FRA",
+      "destination": "SDU",
+      "departureDate": "2023-05-01",
+      "returnDate": "2023-07-13",
+      "seatAvailability": "2",
+      "offerType": "Best Price",
+      "uuid": "33",
+      "price": {
+        "amount": "2254.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "MIA",
+      "destination": "HAV",
+      "departureDate": "2023-08-18",
+      "returnDate": "2023-10-13",
+      "seatAvailability": "19",
+      "offerType": "Best Price",
+      "uuid": "34",
+      "price": {
+        "amount": "154.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "GRU",
+      "destination": "MAD",
+      "departureDate": "2023-07-22",
+      "returnDate": "2023-11-13",
+      "seatAvailability": "11",
+      "offerType": "Best Price",
+      "uuid": "35",
+      "price": {
+        "amount": "1146.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "BCN",
+      "destination": "MCO",
+      "departureDate": "2023-09-24",
+      "returnDate": "2023-12-01",
+      "seatAvailability": "20",
+      "offerType": "Best Price",
+      "uuid": "36",
+      "price": {
+        "amount": "846.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "MAD",
+      "destination": "MCO",
+      "departureDate": "2023-04-05",
+      "returnDate": "2023-05-04",
+      "seatAvailability": "27",
+      "offerType": "Best Price",
+      "uuid": "37",
+      "price": {
+        "amount": "546.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "CDG",
+      "destination": "EEA",
+      "departureDate": "2023-03-11",
+      "returnDate": "2023-05-29",
+      "seatAvailability": "10",
+      "offerType": "Best Price",
+      "uuid": "38",
+      "price": {
+        "amount": "846.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "BER",
+      "destination": "MCO",
+      "departureDate": "2023-05-08",
+      "returnDate": "2023-06-02",
+      "seatAvailability": "24",
+      "offerType": "Best Price",
+      "uuid": "39",
+      "price": {
+        "amount": "346.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FRA",
+      "destination": "BER",
+      "departureDate": "2023-07-09",
+      "returnDate": "2023-09-20",
+      "seatAvailability": "8",
+      "offerType": "Best Price",
+      "uuid": "40",
+      "price": {
+        "amount": "146.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "BER",
+      "destination": "JFK",
+      "departureDate": "2023-06-03",
+      "returnDate": "2023-08-02",
+      "seatAvailability": "0",
+      "offerType": "Best Price",
+      "uuid": "41",
+      "price": {
+        "amount": "972.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FRA",
+      "destination": "JFK",
+      "departureDate": "2023-09-02",
+      "returnDate": "2023-11-04",
+      "seatAvailability": "2",
+      "offerType": "Best Price",
+      "uuid": "42",
+      "price": {
+        "amount": "874.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "BOG",
+      "destination": "FRA",
+      "departureDate": "2023-08-20",
+      "returnDate": "2023-09-27",
+      "seatAvailability": "21",
+      "offerType": "Best Price",
+      "uuid": "43",
+      "price": {
+        "amount": "236.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "MIA",
+      "destination": "CDG",
+      "departureDate": "2023-03-30",
+      "returnDate": "2023-05-25",
+      "seatAvailability": "5",
+      "offerType": "Best Price",
+      "uuid": "44",
+      "price": {
+        "amount": "492.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "TUL",
+      "destination": "EEA",
+      "departureDate": "2023-04-29",
+      "returnDate": "2023-05-06",
+      "seatAvailability": "6",
+      "offerType": "Best Price",
+      "uuid": "45",
+      "price": {
+        "amount": "456.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FNA",
+      "destination": "BCN",
+      "departureDate": "2023-07-05",
+      "returnDate": "2023-08-25",
+      "seatAvailability": "19",
+      "offerType": "Best Price",
+      "uuid": "46",
+      "price": {
+        "amount": "336.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "MAD",
+      "destination": "LAX",
+      "departureDate": "2023-05-14",
+      "returnDate": "2023-06-31",
+      "seatAvailability": "22",
+      "offerType": "Best Price",
+      "uuid": "47",
+      "price": {
+        "amount": "749.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "SAN",
+      "destination": "LHR",
+      "departureDate": "2023-06-07",
+      "returnDate": "2023-06-23",
+      "seatAvailability": "11",
+      "offerType": "Best Price",
+      "uuid": "48",
+      "price": {
+        "amount": "679.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "LHR",
+      "destination": "SAN",
+      "departureDate": "2023-09-13",
+      "returnDate": "2023-10-03",
+      "seatAvailability": "6",
+      "offerType": "Best Price",
+      "uuid": "49",
+      "price": {
+        "amount": "742.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "LGW",
+      "destination": "BLQ",
+      "departureDate": "2023-03-28",
+      "returnDate": "2023-03-23",
+      "seatAvailability": "10",
+      "offerType": "Best Price",
+      "uuid": "50",
+      "price": {
+        "amount": "976.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "FCM",
+      "destination": "STN",
+      "departureDate": "2023-04-19",
+      "returnDate": "2023-05-02",
+      "seatAvailability": "3",
+      "offerType": "Best Price",
+      "uuid": "51",
+      "price": {
+        "amount": "726.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "BGY",
+      "destination": "CUN",
+      "departureDate": "2023-06-23",
+      "returnDate": "2023-07-30",
+      "seatAvailability": "24",
+      "offerType": "Best Price",
+      "uuid": "52",
+      "price": {
+        "amount": "466.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "BGY",
+      "destination": "CAN",
+      "departureDate": "2023-05-09",
+      "returnDate": "2023-06-22",
+      "seatAvailability": "15",
+      "offerType": "Best Price",
+      "uuid": "53",
+      "price": {
+        "amount": "1235.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "AMS",
+      "destination": "LIM",
+      "departureDate": "2023-08-01",
+      "returnDate": "2023-09-26",
+      "seatAvailability": "4",
+      "offerType": "Best Price",
+      "uuid": "54",
+      "price": {
+        "amount": "676.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "BER",
+      "destination": "DUB",
+      "departureDate": "2023-07-14",
+      "returnDate": "2023-08-24",
+      "seatAvailability": "20",
+      "offerType": "Best Price",
+      "uuid": "55",
+      "price": {
+        "amount": "456.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "BRC",
+      "destination": "CGN",
+      "departureDate": "2023-09-25",
+      "returnDate": "2023-12-21",
+      "seatAvailability": "6",
+      "offerType": "Best Price",
+      "uuid": "56",
+      "price": {
+        "amount": "763.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "PUJ",
+      "destination": "MVD",
+      "departureDate": "2023-03-23",
+      "returnDate": "2023-04-27",
+      "seatAvailability": "27",
+      "offerType": "Best Price",
+      "uuid": "57",
+      "price": {
+        "amount": "921.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "BWI",
+      "destination": "DXB",
+      "departureDate": "2023-04-06",
+      "returnDate": "2023-08-30",
+      "seatAvailability": "8",
+      "offerType": "Best Price",
+      "uuid": "58",
+      "price": {
+        "amount": "1146.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "DWC",
+      "destination": "PUJ",
+      "departureDate": "2023-07-24",
+      "returnDate": "2023-08-31",
+      "seatAvailability": "3",
+      "offerType": "Best Price",
+      "uuid": "59",
+      "price": {
+        "amount": "1842.26",
+        "currency": "EUR"
+      }
+    },
+    {
+      "origin": "BER",
+      "destination": "DJH",
+      "departureDate": "2023-09-16",
+      "returnDate": "2023-12-12",
+      "seatAvailability": "0",
+      "offerType": "Best Price",
+      "uuid": "60",
+      "price": {
+        "amount": "2046.26",
+        "currency": "EUR"
+      }
+    }
+  ]
+}
