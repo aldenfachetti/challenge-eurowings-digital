@@ -3,7 +3,7 @@
     <v-main>
       <div class="pa-6">
         <header class="container">
-          <p>Eurowings Digital - Check!</p>
+          <p>Eurowings Digital → Check!</p>
           <section class="animation">
             <div class="first"><div>Price offers</div></div>
             <div class="second"><div>Origin</div></div>
@@ -161,6 +161,20 @@ p:hover {
   }
   100% {
     margin-top: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .animation {
+    text-align: center;
+  }
+
+  .v-application p {
+    margin-bottom: 10px;
   }
 }
 </style>
